@@ -1,0 +1,1 @@
+Basic Logistic Regression project, which uses probability to determine (in this case) whether an individual has a heart decease or not. To run the code you need to install jupyter notebook, as well as matplotlib, numpy and sklearn. The dataset is made so that the highest possible accuracy, in predicting, one can achieve is 84.98 %, which was successfully achieved.

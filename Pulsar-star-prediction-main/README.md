@@ -1,0 +1,1 @@
+This model is trained to detect pulsar star waves. Although waves of pulsar star has a lot of noisy signals, model is trained to accept the real signals from the pulsar star. To run the code you need to have jupyter-notebook.
